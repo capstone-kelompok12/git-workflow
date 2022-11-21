@@ -15,3 +15,4 @@ const hello = (name) =>{
 
 console.log(hello('Abghi'))
 console.log('Abghi conflict')
+console.log('Mari kita coba')
